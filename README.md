@@ -1,5 +1,5 @@
 # ROS 2 FUNDAMENTALS EXAMPLES
-This package contains exmaples demonstrating fundamental ROS2 concepts
+This package contains exmaples demonstrating fundamental ROS2 concepts.
 
 ## DESCRIPTION
 This package includes minimalist ROS2 code to demonstrate important ROS2 concepts and patterns.
@@ -15,3 +15,4 @@ This package includes minimalist ROS2 code to demonstrate important ROS2 concept
 ## AUTHOR
 
 - Astha Mishra
+
